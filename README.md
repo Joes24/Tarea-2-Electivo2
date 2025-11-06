@@ -1,4 +1,4 @@
-# Tarea 2, Electivo de especialidad 2: Solución de Ecuaciones y Sistemas No Lineales
+# Solución de Ecuaciones y Sistemas No Lineales
 Equipo: José Gormaz, Octavio Marchant, MIguel Quispe, Sthefanne Urzua
 # Guía de Uso y Demostración
 Para ver una demostración en acción de todos los métodos, deberá ejecutar en Google Colab el archivo "Solvers_Demo.ipynb", donde se encuentran las implementaciones de cada método junto a su respectivo ejemplo.
