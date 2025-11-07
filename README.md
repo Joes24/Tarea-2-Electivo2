@@ -1,3 +1,4 @@
+# Aviso: se hizo uso de IA para ayudarnos con la implementación de los solvers y corregir errores pára poder ejecutar bien los códigos.
 # Solución de Ecuaciones y Sistemas No Lineales (En Python)
 Equipo: José Gormaz, Octavio Marchant, Miguel Quispe, Sthefanne Urzua
 # Guía de Uso y Demostración
